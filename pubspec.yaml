@@ -1,7 +1,8 @@
 name: value_localization_core
-description: A starting point for Dart libraries or applications.
+description: A lightweight Dart internationalization (i18n) library with JSON-based translations, async loading, and runtime language switching.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/ValueNotify666/value_localization_core
+homepage: https://github.com/ValueNotify666/value_localization_core
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
